@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.venv/
+venv/
+.env.local
+site-packages/
+
+# Env files
+.env
+.env.*.local
+
+# Tooling & Testing
+.pytest_cache/
+.mypy_cache/
+.tox/
+htmlcov/
+.coverage
+*.cover
+.hypothesis/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ML Models (large files not needed in repo)
+*.h5
+*.pkl
+*.pickle
+*.joblib
+*.pth
+*.pt
+*.onnx
+*.pb
+*.bin
+*.json.gz
+ml_models/*
+!ml_models/__init__.py

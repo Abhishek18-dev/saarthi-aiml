@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "skills": ["React", "JavaScript", "CSS", "HTML"],
+    "level": "Beginner",
+    "goal": "Project",
+    "bio": "Frontend enthusiast building interactive UIs",
+    "interests": ["web development", "UI/UX", "open source"],
+    "activity": {
+      "days_active": 12,
+      "projects_joined": 1,
+      "contributions": 5,
+      "last_active_days_ago": 1
+    },
+    "ratings": [4.0, 4.5, 3.8],
+    "joined_days_ago": 30
+  },
+  {
+    "id": 2,
+    "name": "Priya Patel",
+    "skills": ["Python", "Machine Learning", "NumPy", "Pandas"],
+    "level": "Intermediate",
+    "goal": "Study",
+    "bio": "ML practitioner diving into NLP and recommender systems",
+    "interests": ["artificial intelligence", "data science", "research"],
+    "activity": {
+      "days_active": 45,
+      "projects_joined": 3,
+      "contributions": 28,
+      "last_active_days_ago": 0
+    },
+    "ratings": [4.8, 4.7, 5.0, 4.6],
+    "joined_days_ago": 120
+  },
+  {
+    "id": 3,
+    "name": "Rohan Gupta",
+    "skills": ["React", "Node.js", "MongoDB", "Express"],
+    "level": "Beginner",
+    "goal": "Project",
+    "bio": "MERN stack developer looking for team projects",
+    "interests": ["full stack", "startups", "hackathons"],
+    "activity": {
+      "days_active": 20,
+      "projects_joined": 2,
+      "contributions": 10,
+      "last_active_days_ago": 3
+    },
+    "ratings": [3.5, 4.0, 4.2],
+    "joined_days_ago": 60
+  },
+  {
+    "id": 4,
+    "name": "Sneha Reddy",
+    "skills": ["Python", "Django", "PostgreSQL", "REST APIs"],
+    "level": "Advanced",
+    "goal": "Mentor",
+    "bio": "Senior backend developer passionate about clean architecture",
+    "interests": ["system design", "mentoring", "cloud computing"],
+    "activity": {
+      "days_active": 90,
+      "projects_joined": 7,
+      "contributions": 65,
+      "last_active_days_ago": 0
+    },
+    "ratings": [4.9, 5.0, 4.8, 4.9, 5.0],
+    "joined_days_ago": 365
+  },
+  {
+    "id": 5,
+    "name": "Vikram Singh",
+    "skills": ["Java", "Spring Boot", "Microservices", "Docker"],
+    "level": "Intermediate",
+    "goal": "Job",
+    "bio": "Backend engineer exploring distributed systems",
+    "interests": ["DevOps", "cloud native", "system design"],
+    "activity": {
+      "days_active": 35,
+      "projects_joined": 2,
+      "contributions": 18,
+      "last_active_days_ago": 5
+    },
+    "ratings": [4.2, 4.0, 4.5],
+    "joined_days_ago": 90
+  },
+  {
+    "id": 6,
+    "name": "Ananya Iyer",
+    "skills": ["Python", "TensorFlow", "Deep Learning", "Computer Vision"],
+    "level": "Advanced",
+    "goal": "Research",
+    "bio": "AI researcher working on image recognition and GANs",
+    "interests": ["artificial intelligence", "research", "publications"],
+    "activity": {
+      "days_active": 60,
+      "projects_joined": 4,
+      "contributions": 40,
+      "last_active_days_ago": 1
+    },
+    "ratings": [4.7, 4.9, 4.8, 5.0],
+    "joined_days_ago": 200
+  },
+  {
+    "id": 7,
+    "name": "Karan Mehta",
+    "skills": ["React", "TypeScript", "Next.js", "Tailwind CSS"],
+    "level": "Intermediate",
+    "goal": "Project",
+    "bio": "Frontend developer building modern web applications",
+    "interests": ["web development", "startups", "design systems"],
+    "activity": {
+      "days_active": 25,
+      "projects_joined": 3,
+      "contributions": 15,
+      "last_active_days_ago": 2
+    },
+    "ratings": [4.3, 4.5, 4.1],
+    "joined_days_ago": 75
+  },
+  {
+    "id": 8,
+    "name": "Divya Nair",
+    "skills": ["Flutter", "Dart", "Firebase", "Mobile Development"],
+    "level": "Beginner",
+    "goal": "Study",
+    "bio": "Mobile dev beginner eager to learn cross-platform development",
+    "interests": ["mobile apps", "UI/UX", "learning"],
+    "activity": {
+      "days_active": 8,
+      "projects_joined": 0,
+      "contributions": 2,
+      "last_active_days_ago": 7
+    },
+    "ratings": [],
+    "joined_days_ago": 10
+  },
+  {
+    "id": 9,
+    "name": "Arjun Desai",
+    "skills": ["Python", "FastAPI", "Machine Learning", "SQL"],
+    "level": "Intermediate",
+    "goal": "Project",
+    "bio": "Full-stack ML engineer bridging backend and data science",
+    "interests": ["MLOps", "data engineering", "hackathons"],
+    "activity": {
+      "days_active": 40,
+      "projects_joined": 5,
+      "contributions": 32,
+      "last_active_days_ago": 0
+    },
+    "ratings": [4.6, 4.4, 4.8, 4.5],
+    "joined_days_ago": 150
+  },
+  {
+    "id": 10,
+    "name": "Meera Joshi",
+    "skills": ["JavaScript", "Vue.js", "GraphQL", "CSS"],
+    "level": "Beginner",
+    "goal": "Job",
+    "bio": "Aspiring frontend developer transitioning from design",
+    "interests": ["web development", "design", "freelancing"],
+    "activity": {
+      "days_active": 5,
+      "projects_joined": 0,
+      "contributions": 1,
+      "last_active_days_ago": 10
+    },
+    "ratings": [3.5],
+    "joined_days_ago": 14
+  }
+]

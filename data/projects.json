@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Website Builder",
+    "description": "A drag-and-drop portfolio builder for developers",
+    "required_skills": ["React", "JavaScript", "CSS", "HTML"],
+    "difficulty": "Beginner",
+    "category": "Web Development",
+    "team_size": 3
+  },
+  {
+    "id": 2,
+    "title": "Smart Todo App",
+    "description": "An AI-powered task manager that auto-prioritises tasks",
+    "required_skills": ["React", "Node.js", "Machine Learning"],
+    "difficulty": "Intermediate",
+    "category": "Productivity",
+    "team_size": 4
+  },
+  {
+    "id": 3,
+    "title": "Sentiment Analysis Dashboard",
+    "description": "Real-time sentiment analysis of social media feeds",
+    "required_skills": ["Python", "Machine Learning", "NLP", "Pandas"],
+    "difficulty": "Intermediate",
+    "category": "Data Science",
+    "team_size": 3
+  },
+  {
+    "id": 4,
+    "title": "E-Commerce Microservice",
+    "description": "Scalable e-commerce backend with microservices architecture",
+    "required_skills": ["Java", "Spring Boot", "Microservices", "Docker"],
+    "difficulty": "Advanced",
+    "category": "Backend",
+    "team_size": 5
+  },
+  {
+    "id": 5,
+    "title": "Image Recognition API",
+    "description": "REST API for real-time image classification and object detection",
+    "required_skills": ["Python", "TensorFlow", "Deep Learning", "Computer Vision"],
+    "difficulty": "Advanced",
+    "category": "AI/ML",
+    "team_size": 4
+  },
+  {
+    "id": 6,
+    "title": "Chat Application",
+    "description": "Real-time chat app with rooms, typing indicators, and file sharing",
+    "required_skills": ["React", "Node.js", "MongoDB", "WebSocket"],
+    "difficulty": "Intermediate",
+    "category": "Full Stack",
+    "team_size": 4
+  },
+  {
+    "id": 7,
+    "title": "Health Tracker Mobile App",
+    "description": "Cross-platform mobile app for tracking fitness and nutrition",
+    "required_skills": ["Flutter", "Dart", "Firebase", "Mobile Development"],
+    "difficulty": "Beginner",
+    "category": "Mobile",
+    "team_size": 3
+  },
+  {
+    "id": 8,
+    "title": "ML Pipeline Orchestrator",
+    "description": "Automated ML pipeline for data ingestion, training, and deployment",
+    "required_skills": ["Python", "Machine Learning", "FastAPI", "Docker"],
+    "difficulty": "Advanced",
+    "category": "MLOps",
+    "team_size": 4
+  },
+  {
+    "id": 9,
+    "title": "Design System Library",
+    "description": "Reusable component library with Storybook documentation",
+    "required_skills": ["React", "TypeScript", "CSS", "Tailwind CSS"],
+    "difficulty": "Intermediate",
+    "category": "Frontend",
+    "team_size": 3
+  },
+  {
+    "id": 10,
+    "title": "GraphQL Blog Platform",
+    "description": "Full-stack blog with GraphQL API, markdown support, and auth",
+    "required_skills": ["JavaScript", "GraphQL", "Vue.js", "Node.js"],
+    "difficulty": "Intermediate",
+    "category": "Full Stack",
+    "team_size": 3
+  },
+  {
+    "id": 11,
+    "title": "Prediction System",
+    "description": "Stock price prediction using time-series ML models",
+    "required_skills": ["Python", "Machine Learning", "NumPy", "Pandas"],
+    "difficulty": "Advanced",
+    "category": "Data Science",
+    "team_size": 3
+  },
+  {
+    "id": 12,
+    "title": "AI Chatbot",
+    "description": "Conversational AI chatbot with intent detection and context tracking",
+    "required_skills": ["Python", "Machine Learning", "NLP", "FastAPI"],
+    "difficulty": "Intermediate",
+    "category": "AI/ML",
+    "team_size": 4
+  }
+]
